@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and logs
+data/raw/
+data/processed/
+logs/
+
+# Environment settings
+.env
